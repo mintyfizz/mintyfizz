@@ -1,4 +1,4 @@
-# Hi, I'm mintyfizz
+# Hi, Thomas
 
 I build practical software projects and improve them in clear, incremental stages.
 
